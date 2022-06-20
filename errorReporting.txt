@@ -1,0 +1,50 @@
+ERROR REPORT - LEVEL 1, BRONZE
+==============================
+
+Below you will write your debugging report by answering the following questions about the 4 errors you found.
+
+-----------------------------------------------------------------------
+
+ERROR 1
+=======
+
+1. What line did you find the error?
+line 11.
+
+
+
+2.What was the error and how did you fix it?
+the img file name was typed incorrectly in the source file and the closing tag wasnt correct.the img height and width was missing.
+i fixed it by editing the img name in src correctly. and also writing the closing tag correctly. i also filled in the appropriate image height and width
+
+
+ERROR 2
+=======
+
+1. What line did you find the error?
+line 13
+
+
+
+2.What was the error and how did you fix it?
+the h6 tag is supposed to be a h2 tag and i fixed that by replacing the h6 tag with the h2 tag
+ERROR 3
+=======
+
+1. What line did you find the error?
+line 15
+
+
+2.What was the error and how did you fix it?
+there was a <paragraph tag> and a <p>tag seperating both lines and the <paragraph> tag is wrong so i deleted that and merged both lines into a <p> tag
+
+
+ERROR 4
+=======
+
+1. What line did you find the error?
+line 15
+
+
+2.What was the error and how did you fix it?
+the p closing tag was missing the p element so i added it
